@@ -7,6 +7,6 @@ int main{
     Sum = m1+m2+m3+m4+m5;
     Percentage= (Sum/500)*100;
     Printf("Total Marks=%.2f\n,"sum)
-    Printf("Total Percentage marks=%.2f%f%f\n",Percentage); 
+    Printf("Total Percentage marks=%.2f\n",Percentage); 
     return 0;
 }
